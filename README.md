@@ -28,6 +28,4 @@ $ npm run start:dev
 $ curl http://localhost:3001/hello
 ```
 
-- [Full article on Medium](https://medium.com/@tareksaimouah/managing-multiple-node-js-environment-deployments-tutorial-no-devops-required-6f9433bdaa63)
-
 ---
